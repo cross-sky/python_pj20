@@ -1,0 +1,613 @@
+1611487542964	geckodriver	INFO	Listening on 127.0.0.1:11641
+1611487545993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileEa1k2U"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611487551822	Marionette	INFO	Listening on port 11649
+1611487551917	MarionJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+cript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+[Parent 7436, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1611490251760	geckodriver	INFO	Listening on 127.0.0.1:11814
+1611490254869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/10.5.1.2" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileILHQBV"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611490261368	Marionette	INFO	Listening on port 11822
+1611490261554	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+1611490273384	Marionette	INFO	Stopped listening on port 11822
+1611491717550	geckodriver	INFO	Listening on 127.0.0.1:12120
+1611491720599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Android 7.1.1; Mobile; rv:68.0) Gecko/76.0 Firefox/79.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileW4ZuSs"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+ConvertWinError received an unrecognized WinError: 0x7b
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611491726038	Marionette	INFO	Listening on port 12128
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611491726245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+1611491735095	Marionette	INFO	Stopped listening on port 12128
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 5312, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611492387353	geckodriver	INFO	Listening on 127.0.0.1:12328
+1611492390410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36 LBBROWSER" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileHVl6h1"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611492396388	Marionette	INFO	Listening on port 12336
+1611492396782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+1611492405880	Marionette	INFO	Stopped listening on port 12336
+1611499817147	geckodriver	INFO	Listening on 127.0.0.1:13230
+1611499820235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 QIHU 360EE" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileXcytnT"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611499826452	Marionette	INFO	Listening on port 13238
+1611499826618	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+1611499836357	Marionette	INFO	Stopped listening on port 13238
+[Parent 8512, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611500220992	geckodriver	INFO	Listening on 127.0.0.1:13300
+1611500224089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Android 7.1.1; Mobile; rv:68.0) Gecko/76.0 Firefox/79.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileyo9J97"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+ConvertWinError received an unrecognized WinError: 0x7b
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611500229487	Marionette	INFO	Listening on port 13309
+1611500229809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+1611500237122	Marionette	INFO	Stopped listening on port 13309
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611500456940	geckodriver	INFO	Listening on 127.0.0.1:13382
+1611500460005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 LieBaoFast/5.12.3" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileJ30VG5"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611500466629	Marionette	INFO	Listening on port 13391
+1611500466780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+1611500480153	Marionette	INFO	Stopped listening on port 13391
+[Parent 7720, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611500497572	geckodriver	INFO	Listening on 127.0.0.1:13452
+1611500500574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 LieBaoFast/5.12.3" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileygSDvv"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611500506643	Marionette	INFO	Listening on port 13460
+1611500507066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101061501, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101061501, line 70: unreachable code after return statement
+1611500592256	Marionette	INFO	Stopped listening on port 13460
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611674327529	geckodriver	INFO	Listening on 127.0.0.1:1310
+1611674330593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Android 7.1.1; Mobile; rv:68.0) Gecko/76.0 Firefox/79.0" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileZovB1A"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+ConvertWinError received an unrecognized WinError: 0x7b
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611674336986	Marionette	INFO	Listening on port 1318
+1611674337317	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+1611674863114	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3344, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611675467907	Marionette	INFO	Stopped listening on port 1318
+"-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileFrbcSH"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611674437965	Marionette	INFO	Listening on port 1407
+1611674438119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1464, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611675470643	Marionette	INFO	Stopped listening on port 1407
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611674707354	Marionette	INFO	Listening on port 1555
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611674707963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+1611674754452	geckodriver	INFO	Listening on 127.0.0.1:1644
+1611674757507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36 EdgA/42.0.2.3819" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofiledEYvRY"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611674765721	Marionette	INFO	Listening on port 1653
+1611674766280	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+1611675067231	geckodriver	INFO	Listening on 127.0.0.1:1760
+1611675070276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.106 Mobile Safari/537.36 AWP/2.0 SogouMSE,SogouMobileBrowser/5.22.8" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileSzVeac"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611675076148	Marionette	INFO	Listening on port 1768
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611675076548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12892, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611675482324	Marionette	INFO	Stopped listening on port 1768
+r/5.22.8" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilewJw2SM"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611675142812	Marionette	INFO	Listening on port 1858
+1611675143205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11892, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611675454840	Marionette	INFO	Stopped listening on port 1858
+leWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 MQQBrowser/8.3.0 Mobile/15B87 Safari/604.1 MttCustomUA/2 QBWebViewType/1 WKType/1" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileqUhy5w"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611675281905	Marionette	INFO	Listening on port 1962
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611675282272	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+Exiting due to channel error.
+Listening on 127.0.0.1:2063
+1611675385763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileNjkE6i"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611675391792	Marionette	INFO	Listening on port 2071
+1611675392028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+1611675403361	Marionette	INFO	Stopped listening on port 2071
+1611675517616	geckodriver	INFO	Listening on 127.0.0.1:2158
+1611675520673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 360 Alitephone Browser (1.5.0.90/1.0.100.1078) mso_sdk(1.0.0)" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilemIWnvY"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611675527026	Marionette	INFO	Listening on port 2166
+1611675527530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+1611675538319	Marionette	INFO	Stopped listening on port 2166
+[Parent 14900, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611757760202	geckodriver	INFO	Listening on 127.0.0.1:2449
+1611757763225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.106 Mobile Safari/537.36 AWP/2.0 SogouMSE,SogouMobileBrowser/5.22.8" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileppsSaN"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1611757769847	Marionette	INFO	Listening on port 2457
+1611757770026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+1611757803630	Marionette	INFO	Stopped listening on port 2457
+[Parent 1260, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 1260, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1612103948980	geckodriver	INFO	Listening on 127.0.0.1:9032
+1612103961098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36 EdgA/42.0.2.3819" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileMVPLG0"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612103967111	Marionette	INFO	Listening on port 9047
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612103967316	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612103967354	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1612104082024	Marionette	INFO	Stopped listening on port 9047
+[Parent 11628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612104089279	geckodriver	INFO	Listening on 127.0.0.1:9111
+1612104092237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileeQpJ4N"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612104097795	Marionette	INFO	Listening on port 9119
+1612104097900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612104097940	Marionette	ERROR	[15] No reply from Marionette:Register
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612104331269	Marionette	INFO	Stopped listening on port 9119
+1612104614649	geckodriver	INFO	Listening on 127.0.0.1:9250
+1612104617732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilecG6Jxo"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612104623775	Marionette	INFO	Listening on port 9258
+1612104623907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612104623940	Marionette	ERROR	[15] No reply from Marionette:Register
+1612104655622	Marionette	INFO	Stopped listening on port 9258
+1612105289817	geckodriver	INFO	Listening on 127.0.0.1:9419
+1612105292910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileEKQcLd"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612105299759	Marionette	INFO	Listening on port 9427
+1612105299873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612105299910	Marionette	ERROR	[15] No reply from Marionette:Register
+1612105408646	Marionette	ERROR	[33] No reply from Marionette:Register
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 314: TypeError: this._builder is undefined
+1612105420521	Marionette	INFO	Stopped listening on port 9427
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612191621868	geckodriver	INFO	Listening on 127.0.0.1:10069
+1612191624951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/9.6 Mobile Safari/537.36" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilej7u7rR"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612191631567	Marionette	INFO	Listening on port 10077
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612191631769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612191631818	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36 EdgA/42.0.2.3819" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilejQAZpj"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612191669944	Marionette	INFO	Listening on port 10149
+1612191670488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612191670532	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612191670999	Marionette	INFO	Stopped listening on port 10149
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1612191713723	geckodriver	INFO	Listening on 127.0.0.1:10188
+1612191716841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilesp04pC"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612191721918	Marionette	INFO	Listening on port 10196
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612191722232	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612191722270	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612191724642	Marionette	INFO	Stopped listening on port 10196
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 15020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612191968301	geckodriver	INFO	Listening on 127.0.0.1:10257
+1612191971370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilecyrc8a"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612191977175	Marionette	INFO	Listening on port 10265
+1612191977626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612191977660	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612191983132	Marionette	INFO	Stopped listening on port 10265
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 13496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612192070900	geckodriver	INFO	Listening on 127.0.0.1:10322
+1612192073983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilevPub65"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612192079488	Marionette	INFO	Listening on port 10330
+1612192079642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612192079718	Marionette	ERROR	[15] No reply from Marionette:Register
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1612192087755	Marionette	ERROR	[33] No reply from Marionette:Register
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612192095652	Marionette	INFO	Stopped listening on port 10330
+1612192148280	geckodriver	INFO	Listening on 127.0.0.1:10391
+1612192151321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofile05trHq"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612192157424	Marionette	INFO	Listening on port 10399
+1612192157641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612192157683	Marionette	ERROR	[15] No reply from Marionette:Register
+1612192157719	Marionette	INFO	Stopped listening on port 10399
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1612193065866	geckodriver	INFO	Listening on 127.0.0.1:10569
+1612193068954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileAXxFhP"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612193075957	Marionette	INFO	Listening on port 10577
+1612193076342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612193076381	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612193082003	Marionette	INFO	Stopped listening on port 10577
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612193191768	geckodriver	INFO	Listening on 127.0.0.1:10635
+1612193194861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilex9C4od"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612193202322	Marionette	INFO	Listening on port 10644
+1612193202750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612193202777	Marionette	ERROR	[15] No reply from Marionette:Register
+1612193240136	Marionette	INFO	Stopped listening on port 10644
+1612193593316	geckodriver	INFO	Listening on 127.0.0.1:10726
+1612193596382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofile1RwU0F"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612193603818	Marionette	INFO	Listening on port 10734
+1612193604343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612193604514	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612193607145	Marionette	INFO	Stopped listening on port 10734
+1612193766398	geckodriver	INFO	Listening on 127.0.0.1:10779
+1612193769500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilevaYEnD"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612193775815	Marionette	INFO	Listening on port 10787
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612193775911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612193775951	Marionette	ERROR	[15] No reply from Marionette:Register
+1612193855615	Marionette	INFO	Stopped listening on port 10787
+1612193911083	geckodriver	INFO	Listening on 127.0.0.1:10848
+1612193914214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilem04jgl"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612193920467	Marionette	INFO	Listening on port 10856
+1612193920872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612193920901	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+[Parent 8236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612193996177	Marionette	INFO	Stopped listening on port 10856
+1612194063817	geckodriver	INFO	Listening on 127.0.0.1:10944
+1612194066872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofile2zE23v"
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612194072606	Marionette	INFO	Listening on port 10952
+1612194072702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612194072782	Marionette	ERROR	[15] No reply from Marionette:Register
+[[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612194122927	Marionette	INFO	Stopped listening on port 10952
+1612194202652	geckodriver	INFO	Listening on 127.0.0.1:11006
+1612194205746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofile9E9c6F"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612194212166	Marionette	INFO	Listening on port 11014
+1612194212523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612194212557	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1612394480022	geckodriver	INFO	Listening on 127.0.0.1:14109
+1612394483055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (iPhone 6s; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 MQQBrowser/8.3.0 Mobile/15B87 Safari/604.1 MttCustomUA/2 QBWebViewType/1 WKType/1" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofilerqtG6C"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612394490271	Marionette	INFO	Listening on port 14117
+1612394490487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612394490527	Marionette	ERROR	[15] No reply from Marionette:Register
+1612394495603	Marionette	INFO	Stopped listening on port 14117
+1612394510816	geckodriver	INFO	Listening on 127.0.0.1:14157
+1612394513858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 LieBaoFast/5.12.3" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileT83Uuq"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612394519991	Marionette	INFO	Listening on port 14165
+1612394520166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612394520207	Marionette	ERROR	[18] No reply from Marionette:Register
+1612394525271	Marionette	INFO	Stopped listening on port 14165
+1612395516873	geckodriver	INFO	Listening on 127.0.0.1:14861
+1612395519927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Linux; U; Android 7.1.1; zh-CN; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.6.0.1040 Mobile Safari/537.36" "-foreground" "-no-remote" "-profile" "C:\\Users\\apple\\AppData\\Local\\Temp\\rust_mozprofileGKoTQH"
+*** You are running in headless mode.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Mismatched driver versions between the registry 8.882.2.3000 and DLL(s) 8.15.10.2476,  reported.
+1612395526985	Marionette	INFO	Listening on port 14872
+1612395527367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612395527407	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/age_playpre.js?ver=202101262059, line 2: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://cdn.jsjinfu.com/age/static/js/history.js?ver=202101262059, line 70: unreachable code after return statement
