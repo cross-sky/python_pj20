@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2021-11-12 11:42:42
-LastEditTime: 2021-11-12 16:22:02
+LastEditTime: 2021-11-18 15:00:40
 LastEditors: Please set LastEditors
 Description: In User Settings Edit
 FilePath: \serial\e1_serial.py
@@ -11,7 +11,6 @@ import serial
 import serial.tools.list_ports
 import string
 
-from seria_a.serial_a import MySerial
 
 def strToBytes(str):
     '''
@@ -46,8 +45,8 @@ class SerThread:
         self.my_serial.timeout = 1
         self.alive = False
         fname = time.strftime('%Y%m%d_%H_%M_%S')    #file name
-        self.rfname = 'r' + fname + '.txt'
-        self.sfname = 's' + fname + '.txt'
+        self.rfname = r'myserial/' + fname + '.txt'
+        #self.sfname = r'pyserial/'+'s' + fname + '.txt'
         self.thread_read = None
         self.thread_send = None
         self.waitEnd = None     # thread event
@@ -56,8 +55,11 @@ class SerThread:
         if self.waitEnd is not None:
             self.waitEnd.wait()
     def start(self):
-        self.rfile = open(self.rfname, 'w')
-        self.sfile = open(self.sfname, 'w')
+        self.rfile = open(self.rfname, 'w', encoding='utf8')
+        #print(time.strftime("%Y-%m-%d %X: ") + 'haha', file=self.rfile, flush=False)
+        self.rfile.writelines(time.strftime("%Y-%m-%d %X: ") + 'haha')
+        self.rfile.flush()
+        #self.sfile = open(self.sfname, 'w')
 
         ports = list(serial.tools.list_ports.comports())
         if len(ports) <= 0:
@@ -100,21 +102,21 @@ class SerThread:
                 data = ''
                 if n:
                     data = self.my_serial.read(n)
-                    if len(data) == 1 and data[0] == 'q':
-                        break
-                    
+                                       
                     hex_data = bytesToHexstring(data)
 
                     #print('r '  + hex_data)
                     #hex_data = [hex(i) for i in data]
 
                     print('recv ' + time.strftime('%Y-%m-%d %X: ') + hex_data)
-                    print(time.strftime("%Y-%m-%d %X: ") + hex_data, file=self.rfile)
+                    #print('recv ' +time.strftime("%Y-%m-%d %X: ") + hex_data, file=self.rfile, flush=False)
+                    self.rfile.writelines('recv ' +time.strftime("%Y-%m-%d %X: ") + hex_data + '\r\n')
+                    self.rfile.flush()
 
                     
             except Exception as e:
                 print(e)
-        print('send exit')
+        print('reader exit')
         self.waitEnd.set()
         self.alive = False
     
@@ -122,11 +124,18 @@ class SerThread:
         while self.alive:
             try:
                 send_data = input('input data:\n')
+
+                if len(send_data) == 1 and send_data[0] == 'q':
+                    break
+                    
                 #print('s: ' + send_data)
                 data_bytes = hexstringToBytes(send_data)
                 self.my_serial.write(data_bytes)
                 print('sent ' + time.strftime('%Y-%m-%d %X ') + send_data)
-                print(time.strftime("%Y-%m-%d %X: ") + send_data, file=self.sfile)
+                #print(time.strftime("%Y-%m-%d %X: ") + 'haha', file=self.rfile, flush=False)
+                #print('sent ' + time.strftime("%Y-%m-%d %X: ") + send_data, file=self.rfile, flush=False)
+                self.rfile.writelines('sent ' + time.strftime("%Y-%m-%d %X: ") + send_data + '\r\n')
+                self.rfile.flush()
 
             except  Exception as e:
                 print(e)
@@ -136,7 +145,7 @@ class SerThread:
 
     def stop(self):
         self.rfile.close()
-        self.sfile.close()
+        #self.sfile.close()
         self.waitEnd.set()
         self.alive = False
 
